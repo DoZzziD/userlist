@@ -1,7 +1,7 @@
 <template>
   <section id="app">
     <users></users>
-    <p></p>
+    <p>Wszystko gra!</p>
   </section>
 </template>
 
