@@ -6,6 +6,7 @@ export default {
       users: [
         { name: "John Doe", email: "jdoe@gmail.com", contacted: false },
         { name: "Steven Smith", email: "ssmith@gmail.com", contacted: false },
+        { name: "Stevenn Smith", email: "ssmith@gmail.com", contacted: false },
         {
           name: "Myself the Hamburger helper",
           email: "hamburger@gmail.com",

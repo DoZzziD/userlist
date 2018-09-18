@@ -1,6 +1,7 @@
 <template>
   <section id="app">
     <users></users>
+    <p></p>
   </section>
 </template>
 
